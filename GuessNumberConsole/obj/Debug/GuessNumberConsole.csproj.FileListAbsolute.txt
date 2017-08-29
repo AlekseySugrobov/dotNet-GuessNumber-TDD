@@ -1,0 +1,8 @@
+D:\Coding\Java\Projects\GuessNumber\GuessNumberConsole\bin\Debug\GuessNumberConsole.exe.config
+D:\Coding\Java\Projects\GuessNumber\GuessNumberConsole\bin\Debug\GuessNumberConsole.exe
+D:\Coding\Java\Projects\GuessNumber\GuessNumberConsole\bin\Debug\GuessNumberConsole.pdb
+D:\Coding\Java\Projects\GuessNumber\GuessNumberConsole\obj\Debug\GuessNumberConsole.csprojResolveAssemblyReference.cache
+D:\Coding\Java\Projects\GuessNumber\GuessNumberConsole\obj\Debug\GuessNumberConsole.exe
+D:\Coding\Java\Projects\GuessNumber\GuessNumberConsole\obj\Debug\GuessNumberConsole.pdb
+D:\Coding\Java\Projects\GuessNumber\GuessNumberConsole\bin\Debug\GuessNumberLibrary.dll
+D:\Coding\Java\Projects\GuessNumber\GuessNumberConsole\bin\Debug\GuessNumberLibrary.pdb

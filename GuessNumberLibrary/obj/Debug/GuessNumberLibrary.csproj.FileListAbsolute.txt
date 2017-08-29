@@ -1,0 +1,5 @@
+D:\Coding\Java\Projects\GuessNumber\GuessNumberLibrary\bin\Debug\GuessNumberLibrary.dll
+D:\Coding\Java\Projects\GuessNumber\GuessNumberLibrary\bin\Debug\GuessNumberLibrary.pdb
+D:\Coding\Java\Projects\GuessNumber\GuessNumberLibrary\obj\Debug\GuessNumberLibrary.csprojResolveAssemblyReference.cache
+D:\Coding\Java\Projects\GuessNumber\GuessNumberLibrary\obj\Debug\GuessNumberLibrary.dll
+D:\Coding\Java\Projects\GuessNumber\GuessNumberLibrary\obj\Debug\GuessNumberLibrary.pdb

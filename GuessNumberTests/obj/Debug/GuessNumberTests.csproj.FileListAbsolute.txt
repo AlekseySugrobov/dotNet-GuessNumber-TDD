@@ -1,0 +1,17 @@
+D:\Coding\Java\Projects\GuessNumber\GuessNumberTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Coding\Java\Projects\GuessNumber\GuessNumberTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Coding\Java\Projects\GuessNumber\GuessNumberTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Coding\Java\Projects\GuessNumber\GuessNumberTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\Coding\Java\Projects\GuessNumber\GuessNumberTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\Coding\Java\Projects\GuessNumber\GuessNumberTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Coding\Java\Projects\GuessNumber\GuessNumberTests\bin\Debug\GuessNumberTests.dll
+D:\Coding\Java\Projects\GuessNumber\GuessNumberTests\bin\Debug\GuessNumberTests.pdb
+D:\Coding\Java\Projects\GuessNumber\GuessNumberTests\bin\Debug\GuessNumberLibrary.dll
+D:\Coding\Java\Projects\GuessNumber\GuessNumberTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Coding\Java\Projects\GuessNumber\GuessNumberTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Coding\Java\Projects\GuessNumber\GuessNumberTests\bin\Debug\GuessNumberLibrary.pdb
+D:\Coding\Java\Projects\GuessNumber\GuessNumberTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Coding\Java\Projects\GuessNumber\GuessNumberTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Coding\Java\Projects\GuessNumber\GuessNumberTests\obj\Debug\GuessNumberTests.csprojResolveAssemblyReference.cache
+D:\Coding\Java\Projects\GuessNumber\GuessNumberTests\obj\Debug\GuessNumberTests.dll
+D:\Coding\Java\Projects\GuessNumber\GuessNumberTests\obj\Debug\GuessNumberTests.pdb
